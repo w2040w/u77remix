@@ -1,5 +1,6 @@
 # u77remix
 
+a github newbie and js newbie
 
 
 ####脚本相关
